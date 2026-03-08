@@ -1,7 +1,7 @@
 # <p align="center">Welcome to my profile ! 🎈✨</p>
 
 <p align="center">
-  <b>Cybersecurity Student | Electronics Technician | PC Enthusiast</b>
+  <b>Cybersecurity Student | Electronics Technician | </b>
 </p>
 
 <p align="center">
