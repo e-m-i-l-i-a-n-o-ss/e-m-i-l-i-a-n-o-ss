@@ -17,7 +17,9 @@
   <img src="https://skillicons.dev/icons?i=linux,python,git,github,html,css,vscode,windows,cpp" />
 </p>
 
-## 🛡️ Cybersecurity Activity
+## 🛡️ TryHackMe Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=e-m-i-l-i-a-n-o-ss&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <a href="https://tryhackme.com/p/emilianosDev">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/emilianosDev.png" alt="TryHackMe">
+  </a>
 </p>
