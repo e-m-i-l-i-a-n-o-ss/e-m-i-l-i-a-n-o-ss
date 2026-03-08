@@ -20,6 +20,6 @@
 ## 🛡️ TryHackMe Stats
 <p align="left">
   <a href="https://tryhackme.com/p/emilianosDev">
-    <img src="<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=7112323" style='border:none;'></iframe>" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/emilianosDev.png" alt="TryHackMe Badge">
   </a>
 </p>
