@@ -1,7 +1,7 @@
-# <p align="center">Bienvenitusss ! 🎈✨</p>
+# <p align="center">Welcome to My Profile! ✨</p>
 
 <p align="center">
-  <b>Cybersecurity Student | Electronics Technician | </b>
+  <b>Cybersecurity Student | Electronics Technician</b>
 </p>
 
 <p align="center">
@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6xYfR79e/giphy.gif" width="150">
+  <img src="hollow-knight-knight.gif" width="120">
 </p>
 
 ## ⌨️ Skills and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,py,mysql,git,github,html,css,vscode,windows,cpp" />
+  <img src="https://skillicons.dev/icons?i=linux,python,mysql,git,github,html,css,vscode,windows,cpp" />
 </p>
 
 ## 🛡️ Cybersecurity Activity
