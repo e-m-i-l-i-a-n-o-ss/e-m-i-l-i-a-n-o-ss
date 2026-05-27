@@ -17,9 +17,4 @@
   <img src="https://skillicons.dev/icons?i=linux,python,mysql,git,github,html,css,vscode,windows,cpp" />
 </p>
 
-## 🛡️ TryHackMe Stats
-<p align="left">
-  <a href="https://tryhackme.com/p/emilianosDev">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/emilianosDev.png" alt="TryHackMe Badge">
-  </a>
-</p>
+
