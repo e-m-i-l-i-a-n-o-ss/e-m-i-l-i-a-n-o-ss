@@ -14,7 +14,7 @@
 
 ## ⌨️ Skills and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,mysql,git,github,html,css,vscode,windows,cpp" />
+  <img src="https://skillicons.dev/icons?i=linux,python,mysql,dart,flutter,git,github,html,css,vscode,windows,cpp" />
 </p>
 
 
