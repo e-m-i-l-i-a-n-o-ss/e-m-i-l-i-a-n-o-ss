@@ -1,20 +1,6 @@
-# <p align="center">Welcome to my profile ! ✨</p>
-
-<p align="center">
-  <b>Cybersecurity Student | Electronics Technician</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="hollow-knight-knight.gif" width="120">
-</p>
-
-## ⌨️ Skills and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,mysql,dart,flutter,git,github,html,css,vscode,windows,cpp" />
-</p>
-
-
+<h1 align="center">Hi, I'm Emiliano 👋</h1> <p align="center"> <b>Cybersecurity Student · Electronics Technician</b><br> <sub>Instituto Tecnológico de Aguascalientes</sub> </p> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"> </p> <p align="center"> <img src="hollow-knight-knight.gif" width="120"> </p> <h3 align="left">📌 About me</h3> <p> Cybersecurity student with a background in electronics, passionate about how things work under the hood — from circuits to networks to code. Curious, self-taught, and always building something on the side, whether it's a security project, a personal tool, or a new idea I'm testing out. </p>
+🔐 Currently studying Cybersecurity at ITA (Instituto Tecnológico de Aguascalientes)
+⚙️ Background as an Electronics Technician
+🌱 Always learning something new in tech — networking, security, and dev tools
+💬 Open to talk about cybersecurity, electronics, and software projects
+<h3 align="left">⌨️ Skills and Tools</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=linux,python,mysql,dart,flutter,git,github,html,css,vscode,windows,cpp" /> </p> <h3 align="left">📊 GitHub Stats</h3> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /> </p> <h3 align="left">🌐 Connect with me</h3> <p align="left"> <a href="https://www.linkedin.com/in/carlos-emiliano-salas-22a303280/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://x.com/elznapp" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </p> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"> </p>
